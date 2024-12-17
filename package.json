@@ -1,5 +1,12 @@
 {
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node send.js"
+  },
   "dependencies": {
-    "discord.js-selfbot-v13": "^3.4.6"
+    "discord.js-selfbot-v13": "^13.0.0"
   }
 }
